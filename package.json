@@ -6,7 +6,9 @@
   "dependencies": {
     "node-spider": "^1.4.1"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "standard": "^12.0.1"
+  },
   "scripts": {
     "start": "POST_CODE=EC2A2DW node index.js"
   }
